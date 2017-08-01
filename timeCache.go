@@ -9,7 +9,7 @@ import (
 
 const (
 	// PrefixTimeFormat const time format prefix
-	PrefixTimeFormat = "[2006-01-02 15:04:05]"
+	PrefixTimeFormat = "[2006-01-02 15:04:05.000]"
 
 	// DateFormat date format
 	DateFormat = "2006-01-02"
